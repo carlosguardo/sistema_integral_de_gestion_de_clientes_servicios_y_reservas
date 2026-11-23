@@ -1,0 +1,17 @@
+2026-11-22 22:02:37,956 - INFO - Cliente registrado correctamente: 1
+2026-11-22 22:03:47,691 - INFO - Cliente registrado correctamente: 2
+2026-11-22 22:04:38,285 - INFO - Finalizo una ejecucion del menu principal.
+2026-11-22 22:07:08,098 - INFO - Servicio registrado correctamente: 3
+2026-11-22 22:09:54,335 - INFO - Servicio registrado correctamente: 4
+2026-11-22 22:10:42,448 - INFO - Servicio registrado correctamente: 5
+2026-11-22 22:13:19,941 - INFO - Finalizo una ejecucion del menu principal.
+2026-11-22 22:15:24,945 - INFO - Reserva creada correctamente: 6
+2026-11-22 22:16:39,491 - INFO - Reserva creada correctamente: 7
+2026-11-22 22:17:12,611 - INFO - Reserva 6 confirmada.
+2026-11-22 22:17:35,733 - ERROR - No se pudo procesar la reserva 7.
+2026-11-22 22:17:35,747 - INFO - Finalizo el intento de procesamiento de la reserva 7.
+2026-11-22 22:17:35,747 - ERROR - Error al procesar reserva: La reserva debe estar confirmada antes de procesarse.
+2026-11-22 22:18:21,502 - INFO - Reserva 6 procesada correctamente. Costo: 1045000.00
+2026-11-22 22:18:21,502 - INFO - Finalizo el intento de procesamiento de la reserva 6.
+2026-11-22 22:18:54,791 - ERROR - Error al cancelar reserva: No se puede cancelar una reserva cancelada o procesada.
+2026-11-22 22:19:08,800 - INFO - Reserva 7 cancelada.
